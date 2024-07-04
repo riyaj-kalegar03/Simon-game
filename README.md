@@ -1,6 +1,6 @@
 # Simon Game
 
-This is just game using html css and javascript.
+This is just game using html, css and javascript.
 
 # How to play
 
