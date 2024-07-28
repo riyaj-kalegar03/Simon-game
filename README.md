@@ -6,3 +6,8 @@ This is just game using html, css and javascript.
 
 The exciting electronic game of lights and sounds in which players must repeat random sequences of lights by pressing the colored pads in the correct order.
 
+### Screenshorts
+
+![simon game](./screenshort/img1.png)
+
+![simon game](./screenshort/img2.png)
